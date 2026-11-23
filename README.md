@@ -19,7 +19,7 @@ A machine learning project that predicts how many hours per day a student should
    pip install -r requirements.txt
    streamlit run app.py
    ```
-3. The app opens in the browser (usually http://localhost:8501).
+3. The app opens in the browser (usually https://smartstudyplanner-cryvjhfp2xxjrxpgjtgwsa.streamlit.app/).
 
 To re-run the notebook, install Jupyter (`pip install notebook`), run `jupyter notebook` and open `index.ipynb`.
 To regenerate the dataset, run `python generate_data.py`, then re-run the notebook to refresh `model.joblib`.
